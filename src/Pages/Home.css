@@ -1,0 +1,40 @@
+body{
+    font-family: monospace, Arial, Helvetica, sans-serif;
+    background-image: url(../Components/Image/Background.jpg);
+    color: white;
+    margin: auto;
+    overflow:hidden;
+}
+
+.Carro .HondaCarHome{
+    font-size: 90px;
+    position: relative;
+    left: 2%;
+    top: 62%;   
+    text-shadow: 0px 0px 5px black;
+    color: white;
+    text-decoration-line: none;
+    text-decoration: none;
+}
+
+.Carro{
+    background-image: url(../Components/Image/Carros/Honda\ Civic.jpg);
+    background-repeat: no-repeat;
+    position: relative;
+    left: 22%;
+    height: 1000px;
+}
+
+.Moto1 img{
+    position: fixed;
+    width: 500px;
+    margin-left: 415px;
+    top: 810px;
+}
+
+.Moto2 img{
+    position: fixed;
+    top:810px;
+    margin-left: 925px;
+    width: 501px;
+}

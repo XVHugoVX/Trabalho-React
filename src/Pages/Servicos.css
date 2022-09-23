@@ -1,0 +1,13 @@
+.servicetitle{
+    text-align: center;
+    position: relative;
+    top: 240px;
+    font-size: 65px;
+}
+
+.servicetext{
+    text-align: center;
+    position: relative;
+    top: 350px;
+    font-size: 40px;
+}

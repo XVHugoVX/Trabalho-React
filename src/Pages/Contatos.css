@@ -1,0 +1,44 @@
+.contatostitle {
+    font-size: 45px;
+    color: white;
+    line-height: 20px;
+    position: relative;
+    text-align: center;
+    top: 185px;
+}
+
+label {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top: 240px;
+    align-items: center;
+}
+
+form [type="submit"] {
+    width: 10%;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    position: relative;
+    top: 20px;
+}
+
+form [type="submit"]:hover {
+    cursor: pointer;
+}
+
+input {
+    margin-top: 15px;
+    width: 310px;
+    height: 45px;
+    padding: 15px;
+    border: none;
+    border-radius: 15px;
+    font-size: 15px;
+}
